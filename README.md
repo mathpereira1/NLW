@@ -21,3 +21,7 @@ a grande maioria das empresas utilizará a ORM (automatiza muito mais o acesso a
 CORS 
 
 Regra que diz quais aplicações frontend podem acessar a aplicação backend
+
+react - componentes = são funções que retornam HTMLs
+    // Componente: Reaproveitar/isolar
+    // Propriedade: uma informação enviada para m,odificar um componente visual ou comportamental
